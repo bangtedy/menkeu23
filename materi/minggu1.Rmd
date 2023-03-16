@@ -8,7 +8,7 @@ output:
     highlight: github
 ---
 
-[![Home](pot.png){width="10%"}](https://bangtedy.github.io/menkeu23)
+[![Home](strawberry.png){width="10%"}](https://bangtedy.github.io/menkeu23)
 
 
 ## Capaian Pembelajaran
