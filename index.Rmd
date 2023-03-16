@@ -25,7 +25,7 @@ Perkuliahan dilakukan sebanyak 14 kali pertemuan dan 2 kali pertemuan untuk
 ujian tengah semester (**UTS**) dan ujian akhir semester (**UAS**). Topik-topik yang akan dibahas sebagai berikut:
 
 
-* [Minggu 1 Dunia Manajemen Keuangan dan Manajemen Keuangan Agribisnis](https://bangtedy.github.io/menkeu23/materi/minggu1#1)
+* [Minggu 1 Dunia Manajemen Keuangan dan Manajemen Keuangan Agribisnis]()
 * [Minggu 2 Perusahaan dan Pasar Keuangan]((https://bangtedy.github.io/menkeu23/materi/minggu2#1))
 * [Minggu 3 Memahami Laporan Keuangan 1]((https://bangtedy.github.io/menkeu23/materi/minggu3#1))
 * [Minggu 4 Memahami Laporan Keuangan 2]((https://bangtedy.github.io/menkeu23/materi/minggu4#1))
